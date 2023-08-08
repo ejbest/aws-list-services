@@ -1,7 +1,5 @@
 # aws-list-services
 
-# aws-list-services
-
 List out running aws services by region
 “aws_list_services.py” is a program that will list by region the AWS services that are running or are configured.  The initial idea of this was to find “if a big bill will be sent” after the month finishes.
 
