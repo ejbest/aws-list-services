@@ -9,7 +9,9 @@ If you have AWS Command Line configured and working so there is not any security
 Python 3 is required
 
 ## Usage
-ensure that you are in the folder with this program
+ensure that you are in the folder with this program<br>
+git clone https://github.com/ejbest66/aws-list-services.git<br>
+cd aws-list-services <br>
 python3 aws-list-services.py
 
 ## Badges
